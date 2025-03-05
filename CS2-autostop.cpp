@@ -54,3 +54,7 @@ int main() {
 
     return 0;
 }
+
+// if your pc blocks my .exe file, you can compile this .cpp file by
+// g++ CS2-autostop.cpp -o CS2-autostop.exe -lgdi32
+// and then run the compiled .exe file
